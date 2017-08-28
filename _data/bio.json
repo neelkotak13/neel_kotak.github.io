@@ -1,14 +1,14 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Neel Kotak",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2018.",
+    "picture": "https://techfolios.github.io/template/images/headshot.png",
+    "email": "neelk@hawaii.edu",
+    "phone": "808-753-9778",
+    "website": "https://neelkotak13.github.io/",
+    "summary": "I am studying for a B.A. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2019.",
     "location": {
-      "address": "",
+      "address": "3291 Pinaoula St",
       "postalCode": "96822",
       "city": "Honolulu",
       "countryCode": "USA",
@@ -17,42 +17,24 @@
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "neelkotak13",
+        "url": "http://github.com/neelkotak13"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "neelkotak",
+        "url": "https://www.linkedin.com/in/neel-kotak-19b748146/"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "cyber security",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
-    },
-    {
-      "name": "data mining",
-      "keywords": [
-      ]
-    },
-    {
-      "name": "artificial intelligence",
-      "keywords": [
+        "Kali Linux",
+        "Cyber Warfare",
+        "Information Assurance",
+        "Reverse Engineering"
       ]
     }
   ],
@@ -63,21 +45,11 @@
       "keywords": [
         "C",
         "C++",
+        "Common Lisp",
         "Java",
         "Javascript",
-        "Assembly",
-        "Common Lisp"
-      ]
-    },
-    {
-      "name": "Toolsets/OS",
-      "level": "",
-      "keywords": [
-        "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Prolog",
+        "Python"
       ]
     }
   ],
