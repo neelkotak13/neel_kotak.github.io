@@ -29,12 +29,19 @@
   },
   "interests": [
     {
-      "name": "cyber security",
+      "name": "Cyber Security",
       "keywords": [
         "Kali Linux",
         "Cyber Warfare",
         "Information Assurance",
         "Reverse Engineering"
+      ]
+    }
+    {
+      "name": "Software Development",
+      "keywords":[
+        "Software",
+        "Application Development"
       ]
     }
   ],
