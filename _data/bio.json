@@ -29,18 +29,12 @@
   },
   "interests": [
     {
-      "name": "Cyber Security",
+      "name": "cyber security",
       "keywords": [
         "Kali Linux",
         "Cyber Warfare",
         "Information Assurance",
         "Reverse Engineering"
-      ]
-    }
-    {
-      "name": "Software Development",
-      "keywords" :[
-        "Internet of Things"
       ]
     }
   ],
@@ -63,8 +57,8 @@
     {
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.A.",
-      "startDate": "2015-09-01",
+      "studyType": "B.S.",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "gpa": "",
       "courses": [
