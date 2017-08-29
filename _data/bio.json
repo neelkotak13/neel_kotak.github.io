@@ -34,8 +34,16 @@
         "Kali Linux",
         "Cyber Warfare",
         "Information Assurance",
+        "Cryptography",
         "Reverse Engineering"
       ]
+    },
+    {
+      "name": "Software Engineering",
+      "keywords": [
+        "Internet of Things",
+        "Mobile Application Development"
+        ]
     }
   ],
   "skills": [
