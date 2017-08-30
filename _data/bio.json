@@ -34,7 +34,6 @@
         "Kali Linux",
         "Cyber Warfare",
         "Information Assurance",
-        "Cryptography",
         "Reverse Engineering"
       ]
     },
@@ -43,6 +42,11 @@
       "keywords": [
         "Internet of Things",
         "Mobile Application Development"
+        ]
+    },
+        {
+      "name": "Cryptography",
+      "keywords": [
         ]
     }
   ],
