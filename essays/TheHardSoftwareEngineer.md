@@ -8,6 +8,16 @@ labels:
 ---
 <img class="ui large floated image" src="../images/hardVssoft.png">
 
+
+
+
+
+
+
+
+
+
+
 # Introduction
 
 Ever since an early age, I was fascinated by learning. I wanted to know everything, and I loved knowing things others did 
