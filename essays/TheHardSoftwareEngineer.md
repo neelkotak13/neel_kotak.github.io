@@ -6,6 +6,7 @@ date: 2017-08-31
 labels:
           - Learning
 ---
+<img class="ui tiny left circular floated image" src="../images/Soft-Skills-Diagram.png">
 # Introduction
 
 Ever since an early age, I was fascinated by learning. I wanted to know everything, and I loved knowing things others did 
