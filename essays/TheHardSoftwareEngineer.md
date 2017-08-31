@@ -6,7 +6,7 @@ date: 2017-08-31
 labels:
           - Learning
 ---
-<img class="ui large middle circular floated image" src="../images/hardVssoft.png">
+<img class="ui large floated image" src="../images/hardVssoft.png">
 
 # Introduction
 
