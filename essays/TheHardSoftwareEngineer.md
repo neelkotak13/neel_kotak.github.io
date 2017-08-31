@@ -6,7 +6,8 @@ date: 2017-08-31
 labels:
           - Learning
 ---
-<img class="ui tiny left circular floated image" src="../images/Soft-Skills-Diagram.png">
+<img class="ui medium left circular floated image" src="../images/hardVssoft.png">
+
 # Introduction
 
 Ever since an early age, I was fascinated by learning. I wanted to know everything, and I loved knowing things others did 
@@ -33,6 +34,7 @@ hard skills, thus making them more valuable. I believe this is the case because 
 and can learn them quite easily, but soft skills cannot be learned from simply reading a book. Soft skills sometimes take 
 years and years to reach even a competent level, whereas a hard skill is learned much quicker. 
 
+<img class="ui medium left circular floated image" src="../images/Soft-Skills-Diagram.png">
 # Conclusion
 Although there are many hard and soft skills, the one who has the hard skills but poor soft skills, is going to struggle 
 creating and maintaining an effective team. The one who has the soft skills, but poor hard skills will be incompetent in his 
