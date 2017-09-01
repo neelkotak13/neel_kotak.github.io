@@ -11,7 +11,7 @@ labels:
   - Self-development
   - Dynamic Leadership
   - Military Training
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+summary: I learned many valuable skills and experiences as an AFROTC Cadet at Detachment 175 in AFROTC.
 ---
 
 #The Way of the Na Koa Lani
