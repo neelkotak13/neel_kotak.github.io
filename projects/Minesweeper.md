@@ -13,7 +13,7 @@ summary: Classic computer game developed in Java.
 
 <img class="ui medium right floated rounded image" src="../images/Minesweeper_XP.png">
 
-I created this Java rendition of the classic Minesweeper game with two other students (Troy Carson,
+I created a Java rendition of the classic Minesweeper game with two other students (Troy Carson,
 Zachary Heth) in my ICS 211 data structures class.
 
 It uses a Graphical User Interface and is implemented using the Java programing language. I handled
