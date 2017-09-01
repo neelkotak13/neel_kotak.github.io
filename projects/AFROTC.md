@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/nakoalani.jpg
 title: The Na Koa Lani Way
 permalink: projects/AFROTC
 date: 2017
