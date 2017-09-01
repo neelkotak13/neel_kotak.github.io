@@ -22,7 +22,7 @@ with no service obligation, I did this because of the scholarship opportunities 
 leadership skills. This would probably become the best decision of my life. After a semester, I was
 awarded a 3.5 year scholarship, which I accepted. The skills I learned are invaluable, the experiences were indispensable, and the people were unforgettable. Being an AFROTC Cadet becomes a
 lifestyle, I became a part of something bigger than myself, and I became immersed in my training
-and are molded into an adept leader.
+with the hope to be molded into an adept leader.
 
 <img class="ui large left floated image" src="../images/formation.jpg">
 # Training/Classes
@@ -35,7 +35,7 @@ POC, you would commission as a Second Lieutenant into the Air Force.
 <img class="ui large left floated image" src="../images/folding.jpg">
 ## General Military Course
 In the classroom, I learned about Air Force customs and courtesies, heritage, evolution of air and 
-space power, gave informational briefings and wrote informational papers. During physical training,
+space power, gave informational briefings and wrote informative papers. During physical training,
 I woke up every Wednesday and Friday at 0400 to get to formation at 0530. I Kept my physical fitness up
 and scored extremely high on the fitness assessment. In the actual Leadership Laboratories, where we
 are taught with a hands on approach, I was put into stressful and challenging situations, and was
