@@ -68,12 +68,12 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "area": "Computer Science (expected Spring, 2019)",
+      "studyType": "B.A.",
+      "startDate": "2015-09-01",
       "endDate": "Present",
-      "gpa": "",
-      "courses": [
+      "gpa": "3.4",
+      "courses": [ICS111,ICS141,ICS211,ICS212,ICS222,ICS241,ICS311,ICS314,ICS321,ICS361
       ]
     }
   ],
