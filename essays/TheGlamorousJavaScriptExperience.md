@@ -3,13 +3,10 @@ layout: essay
 type: essay
 image: images/JS.png
 title: The Glamorous JavaScript Experience
-permalink: projects/glamorousJavaScript
-date: 2017
+date: 2017-08-01
 labels:
   - JavaScript
   - Athletic Software Engineering
-summary: Athletic Software Engineering and JavaScript are two new things I learned, and they are
-very interesting learning experiences. 
 ---
 # Is It Glamorous?
 I recently started learning JavaScript through my Software Engineering class and I must say, I like
