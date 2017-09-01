@@ -3,7 +3,7 @@ layout: essay
 type: essay
 image: images/JS.png
 title: The Glamorous JavaScript Experience
-date: 2017-08-01
+date: 2017-09-01
 labels:
   - JavaScript
   - Athletic Software Engineering
