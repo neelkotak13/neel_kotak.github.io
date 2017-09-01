@@ -14,6 +14,7 @@ labels:
 summary: I learned many valuable skills and had amazing experiences as an AFROTC Cadet at Detachment 175 in AFROTC.
 ---
 
+<img class="ui large left floated image" src="../images/team.jpg">
 # The Way of the Na Koa Lani
 Na Koa Lani means heavenly warriors and is the motto of the Air Force Reserve Officers Training Corp
 (AFROTC) detachment at the University of Hawaii at Manoa. I joined AFROTC directly after high school
@@ -23,6 +24,7 @@ awarded a 3.5 year scholarship, which I accepted. The skills I learned are inval
 lifestyle, I became a part of something bigger than myself, and I became immersed in my training
 and are molded into an adept leader.
 
+<img class="ui large left floated image" src="../images/formation.jpg">
 # Training/Classes
 The first two years are spent in the General Military Course (GMC). Then, the Cadets who receive 
 Enrollment Allocations(EAs) in the final semester go to Field Training (FT) where they are put in a 
@@ -30,6 +32,7 @@ high stress environment and evaluated on leadership performance. After FT, Cadet
 of leading underclassmen, and are in the Professional Officer Course (POC). After your 2 years in the 
 POC, you would commission as a Second Lieutenant into the Air Force. 
 
+<img class="ui large left floated image" src="../images/folding.jpg">
 ## General Military Course
 In the classroom, I learned about Air Force customs and courtesies, heritage, evolution of air and 
 space power, gave informational briefings and wrote informational papers. During physical training,
@@ -48,6 +51,7 @@ and tedious to be ready
 for(FT and AFOQT). In the end, I was able to pass the AFOQT and earn an EA and went to Field 
 Training. 
 
+<img class="ui large left floated image" src="../images/yelling.jpg">
 ## Field Training
 Field training is like Leadership Laboratory, except more stress, more challenging problems, and it
 was for 18 days straight. All the prepartion from the GMC years was for this, this one training, designed
@@ -57,8 +61,9 @@ is "The best experience of your life you never want to have again." and I wholeh
 grateful for the experience, but I would not want to do it again. I learned so much about team and 
 leadership dynamics, like delegation, decentralized command, different leadership models, motivation 
 and much more. I completed Field Training the Summer of 2017.
- 
-## Professional Military Course
+
+<img class="ui large left floated image" src="../images/formation.jpg">
+## Professional Officer Course
 I have now entered the POC, and now need to set the standard for all the GMC Cadets. In the classroom, 
 I learn about conflict management, leadership and authority, mentoring, standards and accountability,
 and debate ethical implications of certain situations and views. Not much changes at physical training,
@@ -68,6 +73,7 @@ let not only yourself down, but everyone above and below you. I now carry more r
 am currently the mentorship officer. It is my duty to create an effective mentoring program for the
 Cadet Wing, and lead all GMC Cadets by example.
 
+<img class="ui large left floated image" src="../images/baseball.jpg">
 # Overall Lessons Learned
 Overall, so far into my AFROTC career, I have learned time management, self-discipline, leadership skills,
 interpersonal skills, public speaking skills, reading and writing skills, and the list goes on. The 
