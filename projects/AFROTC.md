@@ -62,7 +62,7 @@ grateful for the experience, but I would not want to do it again. I learned so m
 leadership dynamics, like delegation, decentralized command, different leadership models, motivation 
 and much more. I completed Field Training the Summer of 2017.
 
-<img class="ui large left floated image" src="../images/makapuu.jpg">
+<img class="ui large left floated image" src="../images/formation.jpg">
 ## Professional Officer Course
 I have now entered the POC, and now need to set the standard for all the GMC Cadets. In the classroom, 
 I learn about conflict management, leadership and authority, mentoring, standards and accountability,
