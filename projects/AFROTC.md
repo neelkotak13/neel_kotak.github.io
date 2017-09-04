@@ -24,7 +24,7 @@ awarded a 3.5 year scholarship, which I accepted. The skills I learned are inval
 lifestyle, I became a part of something bigger than myself, and I became immersed in my training
 with the hope to be molded into an adept leader.
 
-<img class="ui large left floated image" src="../images/formation.jpg">
+<img class="ui large left floated image" src="../images/Makapuu.jpg">
 # Training/Classes
 The first two years are spent in the General Military Course (GMC). Then, the Cadets who receive 
 Enrollment Allocations(EAs) in the final semester go to Field Training (FT) where they are put in a 
