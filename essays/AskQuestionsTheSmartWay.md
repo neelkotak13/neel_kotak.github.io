@@ -24,7 +24,7 @@ that this person put no effort and wants the answers to be spoon fed to him/her.
 response to have the person elaborate on his/her own attempts, which was ignored. This is the definition
 of asking a question a stupid way.
 
-# [The Smart Way] (https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result)
+# [The Smart Way](https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result)
 Now, this question shows that the user attempted to solve the problem and even showed test cases for those
 answering to work with. It precisely describes the problem and then shows what version of Java, which build,
 and how he obtains his time inputs. Now there are many high quality answers, and this problem took some
