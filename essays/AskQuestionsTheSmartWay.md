@@ -8,6 +8,7 @@ labels:
   - Smart Questions
   - Stack Over Flow
 ---
+<img class="ui large left floated image" src="../images/smartquestions.jpg">
 # Introduction
 I read this interesting [guide](http://www.catb.org/esr/faqs/smart-questions.html) by Eric Steven 
 Raymond and Rick Moen. This guide gave a detailed and specific way to write questions online in a way 
