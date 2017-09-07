@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-image: images/JS.png
+image: images/smartQs.png
 title: Ask Smart Questions to Avoid Smartass Answers
 date: 2017-09-06
 labels:
