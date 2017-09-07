@@ -23,8 +23,8 @@ may not be the most glamorous, but the experience definitely is.
 In the same Software Engineering class, we have a Workout Of the Day (WOD) and it is a simple problem
 which you would practice solving everyday, until you can solve it at a proficient speed. The goal is 
 to teach a concept and ingrain the practical use of it in your brain. I found these practice WODs to
-be very useful, as it teaches to answer questions in a reasonable amount of time and makes your rethink
+be very useful, as it teaches to answer questions in a reasonable amount of time and makes you rethink
 your problem solving process. Critical thinking skills will be very useful in any career field and life
 in general. Although it is sometimes stressful, it makes you accustomed to the environment and allows 
-you to be able to do quick thinking which will most likely come in handy in the future. It definitely,
+you to be able to do quick thinking which will most likely come in handy in the future. It definitely
 works for me!
