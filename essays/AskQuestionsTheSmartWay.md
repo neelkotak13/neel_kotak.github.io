@@ -15,8 +15,8 @@ Raymond and Rick Moen. This guide gave a detailed and specific way to write ques
 to elicit the best responses. I highly reccommend reading this guide, as it gives plenty of guidance
 on trival mistakes.
 
-# [The Not So Smart Way](https://stackoverflow.com/questions/39498106/dynamically-add-nodes-in-a-jtree)
-We can see that this question violates many of the principles outlined in the guide. There is no 
+# The Not So Smart Way
+We can see that [this](https://stackoverflow.com/questions/39498106/dynamically-add-nodes-in-a-jtree) question violates many of the principles outlined in the guide. There is no 
 prior research attempt shown, no prior solving attempt, and shows absolutely abysmal effort. The problem 
 The problem seems like a homework problem, and the person is simply looking for a solution, which is
 against another principle, as homework assignments are made to teach, and soliciting answers is 
@@ -25,8 +25,8 @@ that this person put no effort and wants the answers to be spoon fed to him/her.
 response to have the person elaborate on his/her own attempts, which was ignored. This is the definition
 of asking a question a stupid way.
 
-# [The Smart Way](https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result)
-Now, this question shows that the user attempted to solve the problem and even showed test cases for those
+# The Smart Way
+Now, [this](https://stackoverflow.com/questions/6841333/why-is-subtracting-these-two-times-in-1927-giving-a-strange-result) question shows that the user attempted to solve the problem and even showed test cases for those
 answering to work with. It precisely describes the problem and then shows what version of Java, which build,
 and how he obtains his time inputs. Now there are many high quality answers, and this problem took some
 back and forth communication to solve. The answer is also bizzare, I reccommend you read it, nonetheless
