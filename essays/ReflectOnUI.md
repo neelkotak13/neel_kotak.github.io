@@ -8,7 +8,7 @@ labels:
   - UI Frameworks
   - Semantic UI
 ---
-<img class="ui large left floated image" src="../images/smartquestions.jpg">
+<img class="ui large left floated image" src="../images/semantic.png">
 # Introduction
 Having never used HTML and CSS prior to a class in college, I was filled with anxiety. I did not know
 what to expect, but I quickly was being told that HTML and CSS were not difficult and rather easy.
