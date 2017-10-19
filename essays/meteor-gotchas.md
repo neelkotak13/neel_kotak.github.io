@@ -16,8 +16,4 @@ still running in the background even though I closed it. That took some analysin
 
 Problem 2, I would get frustrated when I would make changes and nothing would happen to the file that I
 edited. This was a relatively quick fix that should not have been a problem, but it was. I would make a
-change to a file and wait for meteor to update, which it wouldn't, then manually refresh, then finally restart meteor. This would be about 20-30 minutes of fumbling, but after I stopped and took a break,
-I realized that I never imported the file! So, when things go wrong in the future, I try solve it quickly, then if I fail, I just calm down and take a break. After the break, with a clear mind, I will
-be able to solve it, especially if it is trivial.
-
-Meteor has many things running, so many things can go wrong, but that is just part of the learning process.
+change to a file and wait for meteor to update, which it wouldn't, then manually refresh, then finally restart meteor. This would be about 20-30 minutes of fumbling, but after I stopped and took a break.
