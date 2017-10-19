@@ -8,7 +8,7 @@ labels:
   - Meteor
 ---
 
-#Meteor Problems
+# Meteor Problems
 Problem 1,when I close a meteor window, it would not let me run another one unless I rebooted
 my computer. I googled and googled, and tried what I saw on the internet and it wouldn't work. Then, I 
 analysed the message I received, and it was something along the lines of "Can't use port 3000, being used". Then I used the command 	sudo fuser -k 3000/tcp, and killed the process on the port. Meteor was
