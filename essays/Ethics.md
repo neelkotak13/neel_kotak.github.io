@@ -23,7 +23,7 @@ for your own actions. In the case of the software engineer, if you purposefully 
 will falsely always give you a single answer as the linked article does; you are responsible for your actions and you must accept
 the consequences. 
 
-# Should you be ashamed
+# Responsibility
 I think that if you are a software engineer, and you get an order to do something that may be unethical, asking senior leadership
 for guidance is the first part, but if that fails, I would refuse to do the project. The consequences of that are most likely losing
 your job, or at least promotion opportunities. But, the weight that the author has to bear is worse, when your work causes the 
