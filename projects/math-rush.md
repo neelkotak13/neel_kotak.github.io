@@ -18,7 +18,7 @@ summary: Applied learning from software engineering class to attempt to create a
 # The Vision
 To create a fun and exciting way for college students to practice the math subjects they are taking while connecting with other top performers.
 
-<img class="ui large left floated image" src="../images/game-page.png">
+<img class="ui large floated image" src="../images/game-page.png">
 # The Idea
 We want to partner with the Mathematics Department professors. Professors would be able to create courses that
 would mirror those they teach. A student could sign up for a course, which would give them access to the games
