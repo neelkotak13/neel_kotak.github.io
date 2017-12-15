@@ -23,4 +23,4 @@ markdown: kramdown
 include: [_data]
 
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
